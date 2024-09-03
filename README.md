@@ -1,6 +1,6 @@
 # Daily Diet API
 
-- API para controle de dieta diária, a Daily Diet API.
+- API para controle de dieta.
 - Esse projeto é um desafio da formação de Node.js da Rocketseat.
 
 # Regras
