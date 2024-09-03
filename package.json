@@ -1,0 +1,19 @@
+{
+  "name": "02-daily-diet-api",
+  "version": "1.0.0",
+  "description": "API para controle de dieta",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.2",
+    "tsx": "^4.19.0"
+  },
+  "dependencies": {
+    "fastify": "^4.28.1"
+  }
+}
