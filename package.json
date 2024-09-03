@@ -2,15 +2,17 @@
   "name": "02-daily-diet-api",
   "version": "1.0.0",
   "description": "API para controle de dieta",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "tsx watch src/server.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@rocketseat/eslint-config": "^2.2.2",
     "@types/node": "^22.5.2",
+    "eslint": "^8.57.0",
     "tsx": "^4.19.0"
   },
   "dependencies": {
